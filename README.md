@@ -37,7 +37,12 @@ API будет доступно по адрессу
 http://localhost:5000
 ```
 
-## Использование API
+## Использование API (Тестирование через Postman)
+
+Ссылка для загрузки Postman 
+```bash
+https://www.postman.com/downloads/?utm_source=postman-home
+```
 
 ### Эндпоинты
 
